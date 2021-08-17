@@ -1,0 +1,23 @@
+[submodule "Hardening"]
+	path = Hardening
+	url = https://github.com/KOLANICH-libs/Hardening.cmake
+	branch = master
+	shallow = true
+
+[submodule "GenPkgConfig"]
+	path = GenPkgConfig
+	url = https://github.com/KOLANICH-libs/GenPkgConfig.cmake
+	branch = master
+	shallow = true
+
+[submodule "MaximumUpgradeLanguages"]
+	path = MaximumUpgradeLanguages
+	url = https://github.com/KOLANICH-libs/MaximumUpgradeLanguages.cmake
+	branch = master
+	shallow = true
+
+[submodule "thirdParty/sanitizers"]
+	path = thirdParty/sanitizers
+	url = https://github.com/arsenm/sanitizers-cmake.git
+	branch = master
+	shallow = true
